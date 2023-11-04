@@ -8,7 +8,7 @@ meaning that both gender's height and weight have a great relationship.
 
 ### Number of Students across different blood groups are;
 A = 44,466
-AB	=  44,486  
+AB	= 44,486  
 B = 45,537
 O = 65,511
 It can be deduced that most of the students are of blood group O.
